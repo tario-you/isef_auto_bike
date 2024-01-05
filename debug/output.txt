@@ -1,0 +1,954 @@
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 0	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 1.7	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 1.7	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 2.5	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 3.5	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 3.5	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 4.7	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 4.2	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 4.2	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 7.1	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+vel_num = 7.1	wat_num = 0	rpm_num = 0	decision = 0	decision = 0
+theoretical gear = 2.3139179473933447
+vel_num = 8.6	wat_num = 47.0	rpm_num = 29.0	decision = -1	decision = -1
+theoretical gear = 2.367729992681562
+vel_num = 8.8	wat_num = 47.0	rpm_num = 29.0	decision = -1	decision = -1
+theoretical gear = 2.4522917781344753
+vel_num = 8.8	wat_num = 47.0	rpm_num = 28.0	decision = -1	decision = -1
+theoretical gear = 3.2883003388621366
+vel_num = 11.8	wat_num = 47.0	rpm_num = 28.0	decision = -1	decision = -1
+theoretical gear = 3.2883003388621366
+vel_num = 11.8	wat_num = 74.0	rpm_num = 28.0	decision = -1	decision = -1
+theoretical gear = 2.279223339246994
+vel_num = 11.1	wat_num = 82.0	rpm_num = 38.0	decision = -1	decision = -1
+theoretical gear = 2.2888056595921764
+vel_num = 13.2	wat_num = 82.0	rpm_num = 45.0	decision = -1	decision = -1
+theoretical gear = 2.2888056595921764
+vel_num = 13.2	wat_num = 82.0	rpm_num = 45.0	decision = -1	decision = -1
+theoretical gear = 2.2315855181023725
+vel_num = 14.3	wat_num = 91.0	rpm_num = 50.0	decision = -1	decision = -1
+theoretical gear = 2.2315855181023725
+vel_num = 14.3	wat_num = 91.0	rpm_num = 50.0	decision = -1	decision = -1
+theoretical gear = 2.215980024968789
+vel_num = 14.2	wat_num = 91.0	rpm_num = 50.0	decision = -1	decision = -1
+theoretical gear = 2.2982635342185906
+vel_num = 16.2	wat_num = 75.0	rpm_num = 55.0	decision = -1	decision = -1
+theoretical gear = 2.1793878341728012
+vel_num = 16.2	wat_num = 75.0	rpm_num = 58.0	decision = -1	decision = -1
+theoretical gear = 2.071763743596367
+vel_num = 15.4	wat_num = 78.0	rpm_num = 58.0	decision = -1	decision = -1
+theoretical gear = 2.098669766240475
+vel_num = 15.6	wat_num = 78.0	rpm_num = 58.0	decision = -1	decision = -1
+theoretical gear = 1.9954564990483208
+vel_num = 15.6	wat_num = 78.0	rpm_num = 61.0	decision = -1	decision = -1
+theoretical gear = 2.225701479707742
+vel_num = 17.4	wat_num = 80.0	rpm_num = 61.0	decision = -1	decision = -1
+theoretical gear = 2.1213717228464417
+vel_num = 17.4	wat_num = 80.0	rpm_num = 64.0	decision = -1	decision = -1
+theoretical gear = 1.8866342445077982
+vel_num = 16.2	wat_num = 152.0	rpm_num = 67.0	decision = -1	decision = -1
+theoretical gear = 2.340823970037454
+vel_num = 20.1	wat_num = 155.0	rpm_num = 67.0	decision = -1	decision = -1
+theoretical gear = 2.340823970037454
+vel_num = 20.1	wat_num = 155.0	rpm_num = 67.0	decision = -1	decision = -1
+theoretical gear = 1.9395398608881753
+vel_num = 17.4	wat_num = 131.0	rpm_num = 70.0	decision = -1	decision = -1
+theoretical gear = 1.8598327433174284
+vel_num = 17.4	wat_num = 131.0	rpm_num = 73.0	decision = -1	decision = -1
+theoretical gear = 1.9050861747490964
+vel_num = 18.8	wat_num = 75.0	rpm_num = 77.0	decision = -1	decision = -1
+theoretical gear = 1.8746858634499086
+vel_num = 18.5	wat_num = 75.0	rpm_num = 77.0	decision = -1	decision = -1
+theoretical gear = 1.8993527827058285
+vel_num = 18.5	wat_num = 82.0	rpm_num = 76.0	decision = -1	decision = -1
+theoretical gear = 1.9096195545042385
+vel_num = 18.6	wat_num = 40.0	rpm_num = 76.0	decision = -1	decision = -1
+theoretical gear = 1.9096195545042385
+vel_num = 18.6	wat_num = 40.0	rpm_num = 76.0	decision = -1	decision = -1
+theoretical gear = 1.8582856955121887
+vel_num = 18.1	wat_num = 38.0	rpm_num = 76.0	decision = -1	decision = -1
+theoretical gear = 1.9506866416978776
+vel_num = 19.0	wat_num = 38.0	rpm_num = 76.0	decision = -1	decision = -1
+theoretical gear = 1.9506866416978776
+vel_num = 19.0	wat_num = 38.0	rpm_num = 76.0	decision = -1	decision = -1
+theoretical gear = 1.7761515211249097
+vel_num = 17.3	wat_num = 56.0	rpm_num = 76.0	decision = -1	decision = -1
+theoretical gear = 1.9277373870896672
+vel_num = 16.8	wat_num = 25.0	rpm_num = 68.0	decision = -1	decision = -1
+theoretical gear = 2.016709881878421
+vel_num = 16.8	wat_num = 25.0	rpm_num = 65.0	decision = -1	decision = -1
+theoretical gear = 2.00470565639105
+vel_num = 16.7	wat_num = 18.0	rpm_num = 65.0	decision = -1	decision = -1
+theoretical gear = 2.00470565639105
+vel_num = 16.7	wat_num = 18.0	rpm_num = 65.0	decision = -1	decision = -1
+theoretical gear = 2.1138349790035185
+vel_num = 14.9	wat_num = 18.0	rpm_num = 55.0	decision = -1	decision = -1
+theoretical gear = 2.540043031317237
+vel_num = 15.3	wat_num = 20.0	rpm_num = 47.0	decision = -1	decision = -1
+theoretical gear = 2.540043031317237
+vel_num = 15.3	wat_num = 20.0	rpm_num = 47.0	decision = -1	decision = -1
+theoretical gear = 1.88033400871861
+vel_num = 14.7	wat_num = 14.0	rpm_num = 61.0	decision = -1	decision = -1
+theoretical gear = 1.637297640244776
+vel_num = 12.8	wat_num = 14.0	rpm_num = 61.0	decision = -1	decision = -1
+theoretical gear = 1.637297640244776
+vel_num = 12.8	wat_num = 14.0	rpm_num = 61.0	decision = -1	decision = -1
+theoretical gear = 1.6884631915024253
+vel_num = 13.2	wat_num = 14.0	rpm_num = 61.0	decision = -1	decision = -1
+theoretical gear = 1.6884631915024253
+vel_num = 13.2	wat_num = 14.0	rpm_num = 61.0	decision = -1	decision = -1
+theoretical gear = 1.471009598657416
+vel_num = 11.5	wat_num = 14.0	rpm_num = 61.0	decision = -1	decision = -1
+theoretical gear = 1.1895990667403453
+vel_num = 9.3	wat_num = 14.0	rpm_num = 61.0	decision = -1	decision = -1
+theoretical gear = 1.1895990667403453
+vel_num = 9.3	wat_num = 14.0	rpm_num = 61.0	decision = -1	decision = -1
+theoretical gear = 1.3190357291480888
+vel_num = 7.1	wat_num = 14.0	rpm_num = 42.0	decision = -1	decision = -1
+theoretical gear = 0.9474763688246833
+vel_num = 5.1	wat_num = 14.0	rpm_num = 42.0	decision = 0	decision = 0
+theoretical gear = 0.9474763688246833
+vel_num = 5.1	wat_num = 17.0	rpm_num = 42.0	decision = 0	decision = 0
+theoretical gear = 1.0775221449378753
+vel_num = 5.8	wat_num = 17.0	rpm_num = 42.0	decision = 0	decision = 0
+theoretical gear = 1.0775221449378753
+vel_num = 5.8	wat_num = 17.0	rpm_num = 42.0	decision = 0	decision = 0
+theoretical gear = 0.6130729445336187
+vel_num = 3.3	wat_num = 17.0	rpm_num = 42.0	decision = 0	decision = 0
+theoretical gear = 0.6130729445336187
+vel_num = 3.3	wat_num = 17.0	rpm_num = 42.0	decision = 0	decision = 0
+theoretical gear = 0.6130729445336187
+vel_num = 3.3	wat_num = 17.0	rpm_num = 42.0	decision = 0	decision = 0
+theoretical gear = 1.4490815052612807
+vel_num = 3.9	wat_num = 17.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 1.4490815052612807
+vel_num = 3.9	wat_num = 17.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 1.4862374412936212
+vel_num = 4.0	wat_num = 15.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 1.5233933773259616
+vel_num = 4.1	wat_num = 15.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 1.5233933773259616
+vel_num = 4.1	wat_num = 15.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 1.709173057487664
+vel_num = 4.6	wat_num = 15.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 1.6720171214553237
+vel_num = 4.5	wat_num = 15.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 1.6720171214553237
+vel_num = 4.5	wat_num = 15.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 1.5233933773259616
+vel_num = 4.1	wat_num = 15.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 1.5233933773259616
+vel_num = 4.1	wat_num = 15.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 1.5233933773259616
+vel_num = 4.1	wat_num = 11.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 1.5605493133583022
+vel_num = 4.2	wat_num = 11.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 1.5605493133583022
+vel_num = 4.2	wat_num = 11.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 1.6348611854229833
+vel_num = 4.4	wat_num = 11.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 1.6348611854229833
+vel_num = 4.4	wat_num = 11.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 1.6348611854229833
+vel_num = 4.4	wat_num = 11.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 1.7834849295523454
+vel_num = 4.8	wat_num = 11.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 1.7834849295523454
+vel_num = 4.8	wat_num = 11.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 1.8206408655846862
+vel_num = 4.9	wat_num = 11.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 1.8949527376493667
+vel_num = 5.1	wat_num = 11.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 1.8949527376493667
+vel_num = 5.1	wat_num = 11.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 1.8577968016170263
+vel_num = 5.0	wat_num = 11.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 1.8577968016170263
+vel_num = 5.0	wat_num = 11.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 1.8577968016170263
+vel_num = 5.0	wat_num = 11.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.44587123238808635
+vel_num = 1.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.5201831044527674
+vel_num = 1.4	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.5201831044527674
+vel_num = 1.4	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.70596278461447
+vel_num = 1.9	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.70596278461447
+vel_num = 1.9	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.7802746566791511
+vel_num = 2.1	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.6688068485821296
+vel_num = 1.8	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.6688068485821296
+vel_num = 1.8	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 0.8174305927114917
+vel_num = 2.2	wat_num = 11.0	rpm_num = 21.0	decision = 0	decision = 0
+theoretical gear = 1.8577968016170263
+vel_num = 5.0	wat_num = 11.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 1.8577968016170263
+vel_num = 5.0	wat_num = 11.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 1.2261458890672374
+vel_num = 3.3	wat_num = 11.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 2.1550442898757507
+vel_num = 5.8	wat_num = 11.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 2.1550442898757507
+vel_num = 5.8	wat_num = 11.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 1.5605493133583022
+vel_num = 4.2	wat_num = 11.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 1.5605493133583022
+vel_num = 4.2	wat_num = 11.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 2.82385113845788
+vel_num = 7.6	wat_num = 11.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 2.4894477141668157
+vel_num = 6.7	wat_num = 11.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 2.4894477141668157
+vel_num = 6.7	wat_num = 26.0	rpm_num = 21.0	decision = -1	decision = -1
+theoretical gear = 1.6720171214553237
+vel_num = 6.0	wat_num = 29.0	rpm_num = 28.0	decision = -1	decision = -1
+theoretical gear = 1.6720171214553237
+vel_num = 6.0	wat_num = 29.0	rpm_num = 28.0	decision = -1	decision = -1
+theoretical gear = 2.090021401819155
+vel_num = 7.5	wat_num = 29.0	rpm_num = 28.0	decision = -1	decision = -1
+theoretical gear = 1.5326823613340468
+vel_num = 5.5	wat_num = 29.0	rpm_num = 28.0	decision = -1	decision = -1
+theoretical gear = 1.5326823613340468
+vel_num = 5.5	wat_num = 29.0	rpm_num = 28.0	decision = -1	decision = -1
+theoretical gear = 1.2261458890672376
+vel_num = 4.4	wat_num = 29.0	rpm_num = 28.0	decision = -1	decision = -1
+theoretical gear = 1.2261458890672376
+vel_num = 4.4	wat_num = 29.0	rpm_num = 28.0	decision = -1	decision = -1
+theoretical gear = 0.4737381844123417
+vel_num = 1.7	wat_num = 29.0	rpm_num = 28.0	decision = 0	decision = 0
+theoretical gear = 0.4737381844123417
+vel_num = 1.7	wat_num = 29.0	rpm_num = 28.0	decision = 0	decision = 0
+theoretical gear = 0.4737381844123417
+vel_num = 1.7	wat_num = 29.0	rpm_num = 28.0	decision = 0	decision = 0
+theoretical gear = 0.4737381844123417
+vel_num = 1.7	wat_num = 29.0	rpm_num = 28.0	decision = 0	decision = 0
+theoretical gear = 0.4737381844123417
+vel_num = 1.7	wat_num = 29.0	rpm_num = 28.0	decision = 0	decision = 0
+theoretical gear = 0.4737381844123417
+vel_num = 1.7	wat_num = 29.0	rpm_num = 28.0	decision = 0	decision = 0
+theoretical gear = 0.4737381844123417
+vel_num = 1.7	wat_num = 29.0	rpm_num = 28.0	decision = 0	decision = 0
+theoretical gear = 0.4737381844123417
+vel_num = 1.7	wat_num = 29.0	rpm_num = 28.0	decision = 0	decision = 0
+theoretical gear = 0.4737381844123417
+vel_num = 1.7	wat_num = 29.0	rpm_num = 28.0	decision = 0	decision = 0
+theoretical gear = 0.4737381844123417
+vel_num = 1.7	wat_num = 29.0	rpm_num = 28.0	decision = 0	decision = 0
+theoretical gear = 0.4737381844123417
+vel_num = 1.7	wat_num = 29.0	rpm_num = 28.0	decision = 0	decision = 0
+theoretical gear = 0.4737381844123417
+vel_num = 1.7	wat_num = 29.0	rpm_num = 28.0	decision = 0	decision = 0
+theoretical gear = 0.4737381844123417
+vel_num = 1.7	wat_num = 29.0	rpm_num = 28.0	decision = 0	decision = 0
+theoretical gear = 0.4737381844123417
+vel_num = 1.7	wat_num = 29.0	rpm_num = 28.0	decision = 0	decision = 0
+theoretical gear = 0.4737381844123417
+vel_num = 1.7	wat_num = 29.0	rpm_num = 28.0	decision = 0	decision = 0
+theoretical gear = 0.4737381844123417
+vel_num = 1.7	wat_num = 29.0	rpm_num = 28.0	decision = 0	decision = 0
+theoretical gear = 0.4737381844123417
+vel_num = 1.7	wat_num = 29.0	rpm_num = 28.0	decision = 0	decision = 0
+theoretical gear = 0.4737381844123417
+vel_num = 1.7	wat_num = 29.0	rpm_num = 28.0	decision = 0	decision = 0
+theoretical gear = 0.4737381844123417
+vel_num = 1.7	wat_num = 29.0	rpm_num = 28.0	decision = 0	decision = 0
+theoretical gear = 0.4737381844123417
+vel_num = 1.7	wat_num = 29.0	rpm_num = 28.0	decision = 0	decision = 0
+theoretical gear = 0.4737381844123417
+vel_num = 1.7	wat_num = 29.0	rpm_num = 28.0	decision = 0	decision = 0
+theoretical gear = 0.4737381844123417
+vel_num = 1.7	wat_num = 29.0	rpm_num = 28.0	decision = 0	decision = 0
+theoretical gear = 0.4737381844123417
+vel_num = 1.7	wat_num = 29.0	rpm_num = 28.0	decision = 0	decision = 0
+theoretical gear = 0.4737381844123417
+vel_num = 1.7	wat_num = 29.0	rpm_num = 28.0	decision = 0	decision = 0
+theoretical gear = 0.4737381844123417
+vel_num = 1.7	wat_num = 29.0	rpm_num = 28.0	decision = 0	decision = 0
+theoretical gear = 0.4737381844123417
+vel_num = 1.7	wat_num = 29.0	rpm_num = 28.0	decision = 0	decision = 0
+theoretical gear = 0.4737381844123417
+vel_num = 1.7	wat_num = 29.0	rpm_num = 28.0	decision = 0	decision = 0
+theoretical gear = 0.4737381844123417
+vel_num = 1.7	wat_num = 29.0	rpm_num = 28.0	decision = 0	decision = 0
+theoretical gear = 0.4737381844123417
+vel_num = 1.7	wat_num = 29.0	rpm_num = 28.0	decision = 0	decision = 0
+theoretical gear = 1.2540128410914928
+vel_num = 4.5	wat_num = 29.0	rpm_num = 28.0	decision = -1	decision = -1
+theoretical gear = 2.2572231139646872
+vel_num = 8.1	wat_num = 29.0	rpm_num = 28.0	decision = -1	decision = -1
+theoretical gear = 2.1793878341728012
+vel_num = 8.1	wat_num = 29.0	rpm_num = 29.0	decision = -1	decision = -1
+theoretical gear = 2.363773224645664
+vel_num = 10.3	wat_num = 195.0	rpm_num = 34.0	decision = -1	decision = -1
+theoretical gear = 2.363773224645664
+vel_num = 10.3	wat_num = 195.0	rpm_num = 34.0	decision = -1	decision = -1
+theoretical gear = 2.067043388746523
+vel_num = 15.1	wat_num = 195.0	rpm_num = 57.0	decision = -1	decision = -1
+theoretical gear = 2.480574654815809
+vel_num = 21.3	wat_num = 379.0	rpm_num = 67.0	decision = -1	decision = -1
+theoretical gear = 1.749457914449044
+vel_num = 21.3	wat_num = 379.0	rpm_num = 95.0	decision = -1	decision = -1
+theoretical gear = 1.5062693372414917
+vel_num = 22.2	wat_num = 456.0	rpm_num = 115.0	decision = 1	decision = 1
+theoretical gear = 1.4605141009635392
+vel_num = 29.2	wat_num = 304.0	rpm_num = 156.0	decision = 1	decision = 1
+theoretical gear = 1.6370468287190034
+vel_num = 32.1	wat_num = 317.0	rpm_num = 153.0	decision = 1	decision = 1
+theoretical gear = 2.0386049128729935
+vel_num = 37.1	wat_num = 469.0	rpm_num = 142.0	decision = 1	decision = 1
+theoretical gear = 2.1621351173628383
+vel_num = 36.3	wat_num = 91.0	rpm_num = 131.0	decision = 1	decision = 1
+theoretical gear = 2.2409488139825218
+vel_num = 35.9	wat_num = 681.0	rpm_num = 125.0	decision = 1	decision = 1
+theoretical gear = 2.9630683165031058
+vel_num = 30.0	wat_num = 16.0	rpm_num = 79.0	decision = -1	decision = -1
+theoretical gear = 2.409962230755859
+vel_num = 24.4	wat_num = 16.0	rpm_num = 79.0	decision = -1	decision = -1
+theoretical gear = 2.409962230755859
+vel_num = 24.4	wat_num = 16.0	rpm_num = 79.0	decision = -1	decision = -1
+theoretical gear = 1.7975947786785507
+vel_num = 18.2	wat_num = 16.0	rpm_num = 79.0	decision = -1	decision = -1
+theoretical gear = 1.7975947786785507
+vel_num = 18.2	wat_num = 16.0	rpm_num = 79.0	decision = -1	decision = -1
+theoretical gear = 1.31362695364971
+vel_num = 13.3	wat_num = 16.0	rpm_num = 79.0	decision = -1	decision = -1
+theoretical gear = 0.2469223597085921
+vel_num = 2.5	wat_num = 16.0	rpm_num = 79.0	decision = 0	decision = 0
+theoretical gear = 0.2469223597085921
+vel_num = 2.5	wat_num = 16.0	rpm_num = 79.0	decision = 0	decision = 0
+theoretical gear = 0.43458335308712215
+vel_num = 4.4	wat_num = 16.0	rpm_num = 79.0	decision = 0	decision = 0
+theoretical gear = 0.5629829801355901
+vel_num = 5.7	wat_num = 16.0	rpm_num = 79.0	decision = 0	decision = 0
+theoretical gear = 0.5629829801355901
+vel_num = 5.7	wat_num = 16.0	rpm_num = 79.0	decision = 0	decision = 0
+theoretical gear = 0.7012595015724016
+vel_num = 7.1	wat_num = 16.0	rpm_num = 79.0	decision = 0	decision = 0
+theoretical gear = 0.7012595015724016
+vel_num = 7.1	wat_num = 16.0	rpm_num = 79.0	decision = 0	decision = 0
+theoretical gear = 0.9185511781159628
+vel_num = 9.3	wat_num = 16.0	rpm_num = 79.0	decision = 0	decision = 0
+theoretical gear = 0.6419981352423395
+vel_num = 6.5	wat_num = 16.0	rpm_num = 79.0	decision = 0	decision = 0
+theoretical gear = 0.6419981352423395
+vel_num = 6.5	wat_num = 16.0	rpm_num = 79.0	decision = 0	decision = 0
+theoretical gear = 0.6123674520773085
+vel_num = 6.2	wat_num = 16.0	rpm_num = 79.0	decision = 0	decision = 0
+theoretical gear = 0.6123674520773085
+vel_num = 6.2	wat_num = 16.0	rpm_num = 79.0	decision = 0	decision = 0
+theoretical gear = 0.6617519240190269
+vel_num = 6.7	wat_num = 16.0	rpm_num = 79.0	decision = 0	decision = 0
+theoretical gear = 0.7308901847374327
+vel_num = 7.4	wat_num = 16.0	rpm_num = 79.0	decision = 0	decision = 0
+theoretical gear = 2.4058468580940495
+vel_num = 7.4	wat_num = 16.0	rpm_num = 24.0	decision = -1	decision = -1
+theoretical gear = 2.535892634207241
+vel_num = 7.8	wat_num = 19.0	rpm_num = 24.0	decision = -1	decision = -1
+theoretical gear = 2.535892634207241
+vel_num = 7.8	wat_num = 19.0	rpm_num = 24.0	decision = -1	decision = -1
+theoretical gear = 2.600915522263837
+vel_num = 8.0	wat_num = 19.0	rpm_num = 24.0	decision = -1	decision = -1
+theoretical gear = 2.5033811901789433
+vel_num = 7.7	wat_num = 19.0	rpm_num = 24.0	decision = -1	decision = -1
+theoretical gear = 2.5033811901789433
+vel_num = 7.7	wat_num = 19.0	rpm_num = 24.0	decision = -1	decision = -1
+theoretical gear = 2.535892634207241
+vel_num = 7.8	wat_num = 19.0	rpm_num = 24.0	decision = -1	decision = -1
+theoretical gear = 2.7309612983770286
+vel_num = 8.4	wat_num = 19.0	rpm_num = 24.0	decision = -1	decision = -1
+theoretical gear = 2.849698746132552
+vel_num = 8.4	wat_num = 19.0	rpm_num = 23.0	decision = -1	decision = -1
+theoretical gear = 2.610919043503313
+vel_num = 8.7	wat_num = 13.0	rpm_num = 26.0	decision = -1	decision = -1
+theoretical gear = 2.610919043503313
+vel_num = 8.7	wat_num = 13.0	rpm_num = 26.0	decision = -1	decision = -1
+theoretical gear = 2.610919043503313
+vel_num = 8.7	wat_num = 13.0	rpm_num = 26.0	decision = -1	decision = -1
+theoretical gear = 2.5809084797848842
+vel_num = 8.6	wat_num = 13.0	rpm_num = 26.0	decision = -1	decision = -1
+theoretical gear = 2.0969881398252186
+vel_num = 8.6	wat_num = 13.0	rpm_num = 32.0	decision = -1	decision = -1
+theoretical gear = 2.2920568039950067
+vel_num = 9.4	wat_num = 40.0	rpm_num = 32.0	decision = -1	decision = -1
+theoretical gear = 2.2920568039950067
+vel_num = 9.4	wat_num = 40.0	rpm_num = 32.0	decision = -1	decision = -1
+theoretical gear = 1.5605493133583022
+vel_num = 7.2	wat_num = 40.0	rpm_num = 36.0	decision = -1	decision = -1
+theoretical gear = 1.7772922735469552
+vel_num = 8.2	wat_num = 37.0	rpm_num = 36.0	decision = -1	decision = -1
+theoretical gear = 1.7772922735469552
+vel_num = 8.2	wat_num = 37.0	rpm_num = 36.0	decision = -1	decision = -1
+theoretical gear = 1.3438063531696491
+vel_num = 6.2	wat_num = 37.0	rpm_num = 36.0	decision = -1	decision = -1
+theoretical gear = 0.997017616867804
+vel_num = 4.6	wat_num = 37.0	rpm_num = 36.0	decision = 0	decision = 0
+theoretical gear = 0.997017616867804
+vel_num = 4.6	wat_num = 37.0	rpm_num = 36.0	decision = 0	decision = 0
+theoretical gear = 0.6935774726036898
+vel_num = 3.2	wat_num = 37.0	rpm_num = 36.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.2	wat_num = 37.0	rpm_num = 36.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.2	wat_num = 37.0	rpm_num = 36.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.2	wat_num = 37.0	rpm_num = 36.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.2	wat_num = 37.0	rpm_num = 36.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.2	wat_num = 37.0	rpm_num = 36.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.2	wat_num = 37.0	rpm_num = 36.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.2	wat_num = 37.0	rpm_num = 36.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.2	wat_num = 37.0	rpm_num = 36.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.2	wat_num = 37.0	rpm_num = 36.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.2	wat_num = 37.0	rpm_num = 36.0	decision = 0	decision = 0
+theoretical gear = 0.4334859203773062
+vel_num = 2.0	wat_num = 37.0	rpm_num = 36.0	decision = 0	decision = 0
+theoretical gear = 0.4334859203773062
+vel_num = 2.0	wat_num = 37.0	rpm_num = 36.0	decision = 0	decision = 0
+theoretical gear = 0.8019489526980165
+vel_num = 3.7	wat_num = 37.0	rpm_num = 36.0	decision = 0	decision = 0
+theoretical gear = 0.19506866416978777
+vel_num = 0.9	wat_num = 37.0	rpm_num = 36.0	decision = 0	decision = 0
+theoretical gear = 0.19506866416978777
+vel_num = 0.9	wat_num = 37.0	rpm_num = 36.0	decision = 0	decision = 0
+theoretical gear = 0.19506866416978777
+vel_num = 0.9	wat_num = 37.0	rpm_num = 36.0	decision = 0	decision = 0
+theoretical gear = 0.19506866416978777
+vel_num = 0.9	wat_num = 37.0	rpm_num = 36.0	decision = 0	decision = 0
+theoretical gear = 0.17339436815092246
+vel_num = 0.8	wat_num = 37.0	rpm_num = 36.0	decision = 0	decision = 0
+theoretical gear = 0.17339436815092246
+vel_num = 0.8	wat_num = 37.0	rpm_num = 36.0	decision = 0	decision = 0
+theoretical gear = 0.17339436815092246
+vel_num = 0.8	wat_num = 37.0	rpm_num = 36.0	decision = 0	decision = 0
+theoretical gear = 0.2167429601886531
+vel_num = 1.0	wat_num = 37.0	rpm_num = 36.0	decision = 0	decision = 0
+theoretical gear = 0.2167429601886531
+vel_num = 1.0	wat_num = 37.0	rpm_num = 36.0	decision = 0	decision = 0
+theoretical gear = 0.39013732833957554
+vel_num = 1.8	wat_num = 37.0	rpm_num = 36.0	decision = 0	decision = 0
+theoretical gear = 0.5418574004716327
+vel_num = 2.5	wat_num = 37.0	rpm_num = 36.0	decision = 0	decision = 0
+theoretical gear = 0.5418574004716327
+vel_num = 2.5	wat_num = 37.0	rpm_num = 36.0	decision = 0	decision = 0
+theoretical gear = 0.9103204327923429
+vel_num = 4.2	wat_num = 37.0	rpm_num = 36.0	decision = 0	decision = 0
+theoretical gear = 1.5085310029130254
+vel_num = 5.8	wat_num = 37.0	rpm_num = 30.0	decision = -1	decision = -1
+theoretical gear = 1.5085310029130254
+vel_num = 5.8	wat_num = 38.0	rpm_num = 30.0	decision = -1	decision = -1
+theoretical gear = 2.158759883478985
+vel_num = 8.3	wat_num = 38.0	rpm_num = 30.0	decision = -1	decision = -1
+theoretical gear = 2.312957018013198
+vel_num = 8.3	wat_num = 38.0	rpm_num = 28.0	decision = -1	decision = -1
+theoretical gear = 1.820640865584686
+vel_num = 9.1	wat_num = 69.0	rpm_num = 39.0	decision = -1	decision = -1
+theoretical gear = 1.451310861423221
+vel_num = 9.3	wat_num = 101.0	rpm_num = 50.0	decision = -1	decision = -1
+theoretical gear = 1.451310861423221
+vel_num = 9.3	wat_num = 101.0	rpm_num = 50.0	decision = -1	decision = -1
+theoretical gear = 1.703599667082813
+vel_num = 13.1	wat_num = 184.0	rpm_num = 60.0	decision = -1	decision = -1
+theoretical gear = 1.6720171214553239
+vel_num = 15.0	wat_num = 184.0	rpm_num = 70.0	decision = -1	decision = -1
+theoretical gear = 1.5400157697614825
+vel_num = 15.0	wat_num = 168.0	rpm_num = 76.0	decision = -1	decision = -1
+theoretical gear = 1.5092154543662528
+vel_num = 14.7	wat_num = 114.0	rpm_num = 76.0	decision = -1	decision = -1
+theoretical gear = 1.4160540065658669
+vel_num = 14.7	wat_num = 114.0	rpm_num = 81.0	decision = -1	decision = -1
+theoretical gear = 1.5605493133583022
+vel_num = 16.2	wat_num = 60.0	rpm_num = 81.0	decision = -1	decision = -1
+theoretical gear = 1.485342117533806
+vel_num = 15.8	wat_num = 60.0	rpm_num = 83.0	decision = -1	decision = -1
+theoretical gear = 1.467659473277451
+vel_num = 15.8	wat_num = 28.0	rpm_num = 84.0	decision = -1	decision = -1
+theoretical gear = 1.3065064018813692
+vel_num = 14.4	wat_num = 37.0	rpm_num = 86.0	decision = -1	decision = -1
+theoretical gear = 1.4320334875523244
+vel_num = 15.6	wat_num = 37.0	rpm_num = 85.0	decision = -1	decision = -1
+theoretical gear = 1.4320334875523244
+vel_num = 15.6	wat_num = 40.0	rpm_num = 85.0	decision = -1	decision = -1
+theoretical gear = 1.3913331227531853
+vel_num = 14.8	wat_num = 38.0	rpm_num = 83.0	decision = -1	decision = -1
+theoretical gear = 1.3747696331965997
+vel_num = 14.8	wat_num = 38.0	rpm_num = 84.0	decision = -1	decision = -1
+theoretical gear = 1.467659473277451
+vel_num = 15.8	wat_num = 40.0	rpm_num = 84.0	decision = -1	decision = -1
+theoretical gear = 1.4844249566091168
+vel_num = 15.6	wat_num = 40.0	rpm_num = 82.0	decision = -1	decision = -1
+theoretical gear = 1.4844249566091168
+vel_num = 15.6	wat_num = 49.0	rpm_num = 82.0	decision = -1	decision = -1
+theoretical gear = 1.4477385196215575
+vel_num = 15.4	wat_num = 43.0	rpm_num = 83.0	decision = -1	decision = -1
+theoretical gear = 1.4477385196215575
+vel_num = 15.4	wat_num = 43.0	rpm_num = 83.0	decision = -1	decision = -1
+theoretical gear = 1.4383376201434956
+vel_num = 15.3	wat_num = 39.0	rpm_num = 83.0	decision = -1	decision = -1
+theoretical gear = 1.467659473277451
+vel_num = 15.8	wat_num = 48.0	rpm_num = 84.0	decision = -1	decision = -1
+theoretical gear = 1.467659473277451
+vel_num = 15.8	wat_num = 48.0	rpm_num = 84.0	decision = -1	decision = -1
+theoretical gear = 1.4212145532370255
+vel_num = 15.3	wat_num = 42.0	rpm_num = 84.0	decision = -1	decision = -1
+theoretical gear = 1.3840586172046847
+vel_num = 14.9	wat_num = 50.0	rpm_num = 84.0	decision = -1	decision = -1
+theoretical gear = 1.3840586172046847
+vel_num = 14.9	wat_num = 50.0	rpm_num = 84.0	decision = -1	decision = -1
+theoretical gear = 1.4412131893956084
+vel_num = 15.7	wat_num = 58.0	rpm_num = 85.0	decision = -1	decision = -1
+theoretical gear = 1.4244548964956596
+vel_num = 15.7	wat_num = 58.0	rpm_num = 86.0	decision = -1	decision = -1
+theoretical gear = 1.442600818744012
+vel_num = 15.9	wat_num = 58.0	rpm_num = 86.0	decision = -1	decision = -1
+theoretical gear = 1.3972360131231312
+vel_num = 15.4	wat_num = 41.0	rpm_num = 86.0	decision = -1	decision = -1
+theoretical gear = 1.4136740838657562
+vel_num = 15.4	wat_num = 41.0	rpm_num = 85.0	decision = -1	decision = -1
+theoretical gear = 1.4044943820224722
+vel_num = 15.3	wat_num = 51.0	rpm_num = 85.0	decision = -1	decision = -1
+theoretical gear = 1.4383376201434956
+vel_num = 15.3	wat_num = 51.0	rpm_num = 83.0	decision = -1	decision = -1
+theoretical gear = 1.5135448159679923
+vel_num = 16.1	wat_num = 50.0	rpm_num = 83.0	decision = -1	decision = -1
+theoretical gear = 1.3913331227531853
+vel_num = 14.8	wat_num = 50.0	rpm_num = 83.0	decision = -1	decision = -1
+theoretical gear = 1.3913331227531853
+vel_num = 14.8	wat_num = 50.0	rpm_num = 83.0	decision = -1	decision = -1
+theoretical gear = 1.4536623740871855
+vel_num = 13.6	wat_num = 45.0	rpm_num = 73.0	decision = -1	decision = -1
+theoretical gear = 1.7231065334997921
+vel_num = 15.9	wat_num = 45.0	rpm_num = 72.0	decision = -1	decision = -1
+theoretical gear = 1.5316502519998152
+vel_num = 15.9	wat_num = 42.0	rpm_num = 81.0	decision = -1	decision = -1
+theoretical gear = 1.4368472336408757
+vel_num = 15.1	wat_num = 52.0	rpm_num = 82.0	decision = -1	decision = -1
+theoretical gear = 1.4368472336408757
+vel_num = 15.1	wat_num = 52.0	rpm_num = 82.0	decision = -1	decision = -1
+theoretical gear = 1.4749094120154687
+vel_num = 15.5	wat_num = 45.0	rpm_num = 82.0	decision = -1	decision = -1
+theoretical gear = 1.4705176222030154
+vel_num = 14.7	wat_num = 45.0	rpm_num = 78.0	decision = -1	decision = -1
+theoretical gear = 1.4705176222030154
+vel_num = 14.7	wat_num = 22.0	rpm_num = 78.0	decision = -1	decision = -1
+theoretical gear = 1.4004929735266816
+vel_num = 14.0	wat_num = 22.0	rpm_num = 78.0	decision = -1	decision = -1
+theoretical gear = 1.4004929735266816
+vel_num = 14.0	wat_num = 22.0	rpm_num = 78.0	decision = -1	decision = -1
+theoretical gear = 1.320464803610871
+vel_num = 13.2	wat_num = 22.0	rpm_num = 78.0	decision = -1	decision = -1
+theoretical gear = 1.1003873363423926
+vel_num = 11.0	wat_num = 22.0	rpm_num = 78.0	decision = -1	decision = -1
+theoretical gear = 1.5894483747167893
+vel_num = 11.0	wat_num = 22.0	rpm_num = 54.0	decision = -1	decision = -1
+theoretical gear = 1.2282101077357008
+vel_num = 8.5	wat_num = 18.0	rpm_num = 54.0	decision = -1	decision = -1
+theoretical gear = 1.2282101077357008
+vel_num = 8.5	wat_num = 18.0	rpm_num = 54.0	decision = -1	decision = -1
+theoretical gear = 0.6935774726036898
+vel_num = 4.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.46238498173579323
+vel_num = 3.2	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.46238498173579323
+vel_num = 3.2	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.37568779766033206
+vel_num = 2.6	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.46238498173579323
+vel_num = 3.2	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.46238498173579323
+vel_num = 3.2	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.5057335737735239
+vel_num = 3.5	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.5057335737735239
+vel_num = 3.5	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.33233920562260133
+vel_num = 2.3	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.2600915522263837
+vel_num = 1.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.3901373283395756
+vel_num = 2.7	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.3901373283395756
+vel_num = 2.7	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 0.9825680861885606
+vel_num = 6.8	wat_num = 18.0	rpm_num = 54.0	decision = 0	decision = 0
+theoretical gear = 1.5027511906413282
+vel_num = 10.4	wat_num = 18.0	rpm_num = 54.0	decision = -1	decision = -1
+theoretical gear = 2.318530408418049
+vel_num = 10.4	wat_num = 18.0	rpm_num = 35.0	decision = -1	decision = -1
+theoretical gear = 2.3245682480233048
+vel_num = 14.3	wat_num = 143.0	rpm_num = 48.0	decision = -1	decision = -1
+theoretical gear = 1.6344700703068533
+vel_num = 19.9	wat_num = 595.0	rpm_num = 95.0	decision = -1	decision = -1
+theoretical gear = 1.6344700703068533
+vel_num = 19.9	wat_num = 595.0	rpm_num = 95.0	decision = -1	decision = -1
+theoretical gear = 1.5018820459388171
+vel_num = 25.6	wat_num = 548.0	rpm_num = 133.0	decision = 1	decision = 1
+theoretical gear = 1.471657263863209
+vel_num = 29.8	wat_num = 331.0	rpm_num = 158.0	decision = 1	decision = 1
+theoretical gear = 1.6623242685773216

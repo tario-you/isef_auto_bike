@@ -1,6 +1,6 @@
 # A Data-Driven Approach to Optimizing Non-EBike Acceleration through Gear Ratio Optimization
 
-[paper pdf link](https://github.com/tario-you/isef_bike/blob/main/paper.pdf)  
+[paper pdf link](paper.pdf)  
 Currently publishing to JEI (Journal of Emerging Investigators)  
 <img src="jei.png" alt="JEI" width="300"/>
 
